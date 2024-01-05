@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">T&amp;J Quiz</string>
+    <string name="title_activity_main">T&amp;J Quiz</string>
+    <string name="package_name">com.vueproject.myquiz</string>
+    <string name="custom_url_scheme">com.vueproject.myquiz</string>
+</resources>
